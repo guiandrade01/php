@@ -1,0 +1,21 @@
+h1{
+    background-color: blue;
+}
+
+#p1{
+    background-color: green;
+}
+
+h2{
+    background-color: red;
+}
+
+#p2{
+    background-color: yellow;
+}
+
+.estilo{
+    background-color: rgb(30, 174, 210);
+    height: 200px;
+    width: 667.5px;
+}
