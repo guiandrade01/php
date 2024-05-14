@@ -1,0 +1,35 @@
+body{
+    background-color: lightseagreen;
+}
+
+h1{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+h2{
+    background-color: lightyellow;
+    padding-left: 15px;
+}
+
+h3{
+    background-color: green;
+    color: white;
+    padding-left: 5px;
+}
+
+pre{
+    background-color: lightgreen;
+}
+
+.div1{
+    background-color: lightgreen;
+}
+
+.div2{
+    background-color: lightgreen;
+}
+
+.div3{
+    background-color: lightgreen;
+}
